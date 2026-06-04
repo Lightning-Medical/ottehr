@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@zapehr/sdk": "1.0.15",
-    "axios": "1.6.2"
+    "axios": "1.16.0"
   },
   "devDependencies": {
     "vite": "^4.3.9"
